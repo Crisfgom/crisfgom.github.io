@@ -9,7 +9,7 @@ body {
 }
 
 .background {
-	background: url(./img/Background.jpg);
+	background: url(./img/background.jpg);
 	margin: 10px;
 	background-size: 800px 500px;
 	border-radius: 10px;
