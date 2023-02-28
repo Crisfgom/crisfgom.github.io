@@ -165,14 +165,13 @@ li {
 }
 .footer {
 	text-align: center;
-}
-
-.footer p {
-	padding-bottom: 20px;
-	font-size: smaller;
+	color: aliceblue;
+	
 }
 
 .footer a img {
+	display: block;
+	margin: auto;
 	width: 64px;
 	border-radius: solid 3px rgb(11, 146, 137);
 }
